@@ -129,6 +129,3 @@ This repository focuses on understanding Redis from both operational and applica
 * GitHub: https://github.com/andriantp
 * GitHub (alternative): https://github.com/AndrianTriPutra
 
-## 📄 License
-
-Licensed under the Apache License 2.0.
