@@ -14,7 +14,7 @@ Learn how to secure Redis using:
 * Certificate generation and configuration
 * Verifying secure connections using `redis-cli`
 
-Medium [Article](https://andriantriputra.medium.com)
+Medium [Article](https://andriantriputra.medium.com/redis-securing-redis-with-acl-and-tls-1a2854fe725f)
 
 ### Chapter #2: Exploring Redis Features with Go and Rust
 
