@@ -6,5 +6,4 @@
 /docker/redis.conf
 /docker/users.acl
 
-/example 
 /example/rust-redis/target
