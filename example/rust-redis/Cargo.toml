@@ -1,0 +1,23 @@
+[package]
+name = "rust-redis"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+# Redis client
+redis = { version = "0.32", features = ["tokio-rustls-comp"] }
+
+# TLS support
+rustls = "0.23"
+rustls-pemfile = "2"
+tokio-rustls = "0.26"
+
+# Async runtime
+tokio = { version = "1", features = ["full"] }
+
+# Error handling
+anyhow = "1"
+
+# Pub/Sub
+futures-util = "0.3"
