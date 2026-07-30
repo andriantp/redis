@@ -26,7 +26,7 @@ Hands-on examples of Redis features implemented in both Go and Rust, including:
 * Sorted Sets
 * Expiration and TTL
 
-Medium [Article](https://andriantriputra.medium.com)
+Medium [Article](https://andriantriputra.medium.com/redis-exploring-redis-features-with-go-and-rust-2d835dcb8a4f)
 
 ## Project Structure
 
